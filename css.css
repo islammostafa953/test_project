@@ -1,0 +1,58 @@
+
+body
+{
+ text-align:center;
+ width:100%;
+ padding:0px;
+ font-family:helvetica;
+ background-color:#B5B6BB;
+
+}
+.banr{
+	
+	background:#211F1F;
+}
+
+.slider
+{
+	margin-top:150px;
+	
+}
+.carousel-caption
+{
+	
+	background: rgba(13,13,13,0.50);
+}
+.statistics
+{   margin-top: 100px;
+	background:url(imges/statsticsbanner.jpeg) no-repeat center center fixed;
+	min-height: 300px;
+}
+.statistics .data
+
+{
+	background-color:rgba(166,179,232,0.31);
+	min-height: 300px;
+	
+}
+.statistics1 .data
+
+{
+	background-color:rgba(f,f,f,0.31);
+	min-height: 300px;
+	
+}
+.statistics1
+{   margin-top: 100px;
+	background:url(imges/statsticsbanner1.jpeg) no-repeat center center fixed;
+	min-height: 300px;
+}
+.ht
+{
+	color:aliceblue; 
+}
+.htm1
+{
+	color: aliceblue;
+	
+}
